@@ -1,0 +1,10 @@
+trustin.xyz
+mail.trustin.xyz
+_dmarc.*
+_domainkey.*
+_acme-challenge.*
+spamhaus.org
+spamcop.net
+sorbs.net
+barracudacentral.org
+rblclient.com
