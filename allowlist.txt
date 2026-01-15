@@ -1,40 +1,53 @@
+# Own domain / mail
 ||trustin.xyz^
 ||mail.trustin.xyz^
+# RBL / Spam filtering
 ||spamhaus.org^
 ||spamcop.net^
 ||sorbs.net^
 ||barracudacentral.org^
 ||rblclient.com^
+# SMTP relay
 ||resend.com^
-||api.resend.com^
-||smtp.resend.com^
+# Certificate / OCSP / CA
 ||ocsp.digicert.com^
 ||ocsp.pki.goog^
 ||r3.o.lencr.org^
 ||ocsp.sectigo.com^
+# CDN / Proxy
 ||cloudflare.com^
 ||fastly.net^
 ||akamai.net^
+# System Updates
 ||downloads.openwrt.org^
 ||security.ubuntu.com^
 ||archive.ubuntu.com^
+# Microsoft
 ||spf.protection.outlook.com^
 ||outlook.com^
 ||office365.com^
 ||protection.outlook.com^
+# Google
 ||googleapis.com^
 ||gstatic.com^
 ||accounts.google.com^
+# Apple
 ||icloud.com^
 ||apple.com^
 ||mzstatic.com^
+# GitHub / Script Hosting
 ||github.com^
 ||raw.githubusercontent.com^
+# Time Sync
 ||pool.ntp.org^
 ||time.google.com^
+# Docker Hub / Registry
 ||registry-1.docker.io^
 ||auth.docker.io^
 ||production.cloudflare.docker.com^
+# Other email providers
 ||amazonses.com^
 ||sendgrid.net^
+||letsencrypt.org^
+||lencr.org^
 
